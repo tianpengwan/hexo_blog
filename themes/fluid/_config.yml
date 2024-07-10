@@ -299,8 +299,8 @@ gitalk:
 # 完整文档 https://valine.js.org/configuration.html
 # 注意：下列配置项中的 true/false 不要用引号括起来
 valine:
-  appid: jdElMNU0cUs0Do7VY86SW5eF-gzGzoHsz   # 从 LeanCloud 的应用中得到的 appId
-  appkey: W1C4SSU2QtkkD5pD5uSCV2Hi   # 从 LeanCloud 的应用中得到的 APP Key
+  appid: 1Y7iCaQbJcjCqo1PWx8aSdEg-MdYXbMMI   # 从 LeanCloud 的应用中得到的 appId
+  appkey: XmKltRmkBe840DWwN6GuXE0T   # 从 LeanCloud 的应用中得到的 APP Key
   placeholder: 🌅快来评论一下吧，评论的时候可以写下你可爱的昵称哦ヾﾉ≧∀≦)o      # 评论框占位提示符
   path: window.location.pathname # 当前文章页路径，用于区分不同的文章页，以保证正确读取该文章页下的评论列表
   avatar: retro # Gravatar 头像展示方式
